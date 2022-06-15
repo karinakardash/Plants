@@ -3,7 +3,7 @@
 https://karinakardash.github.io/Plants/
 
 
-##Technologies:
+## Technologies:
 
 <li>HTML5</li>
 <li>SСSS</li>
